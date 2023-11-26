@@ -1,3 +1,9 @@
+# React Password App
+A password generator web app developed using React.js and CSS
+
+The purpose of this project was to gain experience using React.js for web app development, grow my understanding of components and hooks in Javascript, and using CSS to enhance a user interface.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

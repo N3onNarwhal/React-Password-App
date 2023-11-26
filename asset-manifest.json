@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Password-App/static/css/main.211a357d.css",
+    "main.js": "/React-Password-App/static/js/main.93d78296.js",
+    "static/js/787.4d581315.chunk.js": "/React-Password-App/static/js/787.4d581315.chunk.js",
+    "index.html": "/React-Password-App/index.html",
+    "main.211a357d.css.map": "/React-Password-App/static/css/main.211a357d.css.map",
+    "main.93d78296.js.map": "/React-Password-App/static/js/main.93d78296.js.map",
+    "787.4d581315.chunk.js.map": "/React-Password-App/static/js/787.4d581315.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.211a357d.css",
+    "static/js/main.93d78296.js"
+  ]
+}
